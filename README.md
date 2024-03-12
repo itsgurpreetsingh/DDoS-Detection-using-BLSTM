@@ -5,7 +5,7 @@ tshark must be installed on ubuntu lite using sudo apt-get install tshark
 
 2. kali linux
    
-3.Python 3.10.12 is recommended
+3. Python 3.10.12 is recommended
 
 Run all commands after sudo su on ubuntu lite
 
