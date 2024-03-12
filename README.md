@@ -1,13 +1,17 @@
 # DDoS-Detection-using-BLSTM
 ## Requirements for demonstration
 1. Ubuntu lite  
-tshark must be installed on ubuntu lite using sudo apt-get install tshark
 
-2. kali linux
+   tshark must be installed on ubuntu lite using sudo apt-get install tshark
+
+   Run all commands after sudo su on ubuntu lite
+
+3. kali linux
    
-3. Python 3.10.12 is recommended
+4. Python 3.10.12 is recommended
 
-Run all commands after sudo su on ubuntu lite
+
+## To execute attack using kali linux:
 
 slowhttptest  
 
